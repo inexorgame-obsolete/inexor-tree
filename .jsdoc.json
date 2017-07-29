@@ -11,7 +11,7 @@
         "dictionaries": ["jsdoc","closure"]
     },
     "source": {
-        "include": ["server/", "plugins", "src"],
+        "include": ["Node.js", "Root.js", "util.js"],
         "includePattern": ".+\\.js(doc|x)?$",
         "excludePattern": "node_modules"
     },

@@ -8,7 +8,8 @@
     "url": "git+https://github.com/inexorgame/flex.git"
   },
   "scripts": {
-    "test": "mocha $(find . -not -iwholename '*node_modules*' -iwholename '*test*' -name '*.js')"
+    "test": "mocha $(find . -not -iwholename '*node_modules*' -iwholename '*test*' -name '*.js')",
+    "docs": "jsdoc -c .jsdoc.json"
   },
   "keywords": [
     "inexor",
