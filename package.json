@@ -1,6 +1,6 @@
 {
   "name": "@inexorgame/tree",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A tree implementation that powers the Inexor Tree technology.",
   "main": "index.js",
   "repository": {
@@ -23,13 +23,6 @@
   "homepage": "https://github.com/inexorgame/inexor-tree#readme",
   "engines": {
     "node": ">=6.9.1"
-  },
-  "bundledDependencies": [
-    "babel-preset-es2015"
-  ],
-  "dependencies": {
-    "ansi-regex": "^3.0.0",
-    "ansi-styles": "^3.2.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
