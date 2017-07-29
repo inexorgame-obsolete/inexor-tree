@@ -14,9 +14,9 @@
   "author": "The Inexor Team",
   "license": "Zlib",
   "bugs": {
-    "url": "https://github.com/inexorgame/flex/issues"
+    "url": "https://github.com/inexorgame/inexor-core/issues"
   },
-  "homepage": "https://github.com/inexorgame/flex#readme",
+  "homepage": "https://github.com/inexorgame/inexor-tree#readme",
   "engines": {
     "node": ">=6.9.1"
   },
