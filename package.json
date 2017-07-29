@@ -1,5 +1,5 @@
 {
-  "name": "@inexor-game/tree",
+  "name": "@inexorgame/tree",
   "version": "1.0.0",
   "description": "A tree implementation that powers the Inexor Tree technology.",
   "main": "index.js",
@@ -23,5 +23,15 @@
   "private": true,
   "bundledDependencies": {
     "babel-preset-es2015": "^6.24.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "chai-iterator": "^1.1.4",
+    "eslint": "^3.19.0",
+    "jsdoc": "^3.4.3",
+    "minami": "^1.1.1",
+    "mocha": "^3.2.0",
+    "mocha-junit-reporter": "^1.13.0"
   }
 }
